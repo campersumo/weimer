@@ -33,5 +33,6 @@ h3 b {
           background-color: #3498eb;
           border: 3px solid rgba(0,0,0,.6);
           padding: 15px;
+         cursor: pointer;
           
         }
